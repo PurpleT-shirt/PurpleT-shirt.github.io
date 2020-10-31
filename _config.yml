@@ -1,5 +1,5 @@
 # Site Settings
-name: WangWei
+name: NoOne
 title: Jekflix | A blog theme for my site.
 description: My blog use Jekflix as the theme of my site. Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
@@ -21,7 +21,7 @@ menu:
   - title: Feed
     url: /feed.xml
 email: wangw233@163.com
-disqus_username: WangWei
+disqus_username: NoOne
 #theme: jekflix
 
 # Social Media Settings
