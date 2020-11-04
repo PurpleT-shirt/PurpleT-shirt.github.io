@@ -1,5 +1,5 @@
 ---
-date: 2020-10-31T14:19:05.000Z
+date: 2020-11-3T21:32:05.000Z
 layout: post
 title: Welcome to my craft of the real
 subtitle: 'Nice to meet you! Wish you happy everyday.'
@@ -18,5 +18,3 @@ author: wangwei
 ---
 
 # 本页作为首页展示页面
-
-> 

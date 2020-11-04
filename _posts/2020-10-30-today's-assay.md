@@ -3,9 +3,7 @@ date: 2020-10-20T21:31:05.000Z
 layout: post
 title: 当时年少春衫薄
 subtitle: '骑马倚斜桥，满楼红袖招.'
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+description: 骑马倚斜桥，满楼红袖招.
 image: >-
   https://PurpleT-shirt.github.io/images/江南雨.jpg
 optimized_image: >-
