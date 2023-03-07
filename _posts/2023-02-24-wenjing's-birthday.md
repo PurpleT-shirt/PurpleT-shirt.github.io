@@ -18,10 +18,11 @@ author: wangwei
 
 ​	网页链接：
 
-[链接]: https://PurpleT-shirt.github.io/assets/index.html
 
 
+[链接](https://PurpleT-shirt.github.io/assets/index.html)
 
+欢迎来到[百度](https://www.baidu.com)
 
 
 
