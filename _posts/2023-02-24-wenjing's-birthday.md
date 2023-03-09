@@ -16,18 +16,6 @@ author: wangwei
 
 # 《文静生日》
 
-​	网页链接：
-
-
-
-[链接](https://PurpleT-shirt.github.io/assets/index.html)
-
-欢迎来到[百度](https://www.baidu.com)
-
-
-
-
-
-
+[祝你平安快乐](https://PurpleT-shirt.github.io/assets/index.html)
 
 
